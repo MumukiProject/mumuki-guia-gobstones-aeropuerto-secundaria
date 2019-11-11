@@ -1,7 +1,5 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-aeropuerto-secundaria/master/assets/attires/config_1573506340002.json"></gs-attire>
 
-
-
 Para que un avión esté en el aire hay que tomar ciertas medidas de seguridad. Por eso es muy importante la torre de control de los aeropuertos, donde profesionales se fijan que todo esté en condiciones para el despegue :airplane_departure:. Su principal herramienta es el radar. ¡Prendámoslo!
 
 <gs-board>
