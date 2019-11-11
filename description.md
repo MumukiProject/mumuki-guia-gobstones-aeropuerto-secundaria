@@ -1,0 +1,1 @@
+A más o menos 10 minutos de la ciudad de San Luis nos encontramos con el _Aeropuerto Brigadier Mayor César Raúl Ojeda_  también llamado, por el código de aeropuertos, _LUQ_ o simplemente _Aeropuerto de San Luis_ :airplane:. ¡Descubrámoslo!
