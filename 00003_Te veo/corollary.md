@@ -1,0 +1,1 @@
+¡Excelente! Los motores ya están prendidos, la piloto del avión :woman_pilot: tiene el permiso para despegar… ¡a volar! :airplane:
