@@ -1,5 +1,5 @@
 interactive: false
-check_head_position: false
+check_head_position: true
 examples:
  - initial_board: |
      GBB/1.0
@@ -16,4 +16,4 @@ examples:
      cell 1 1 Verde 1 Negro 1 
      cell 0 0 Verde 1 
      cell 1 0 Verde 1 Rojo 7 
-     head 1 NaN
+     head 1 0
