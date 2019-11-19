@@ -1,1 +1,1 @@
-Para mover una bolita tenés que sacarla, moverte y ponerla.
+Para mover al avión (bolita negra) tenés que sacarlo, moverte y ponerlo.
