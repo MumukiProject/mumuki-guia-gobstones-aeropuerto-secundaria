@@ -1,1 +1,1 @@
-Para mover al avión (bolita negra) tenés que sacarlo, moverte y ponerlo.
+Para mover al avión (bolita negra), tenés que sacarlo, moverte en la dirección que quieras y luego volver a ponerlo.
